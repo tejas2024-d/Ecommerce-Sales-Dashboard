@@ -4,7 +4,11 @@
 
 ## 2. Short Description / Purpose <br>
 Interactive dashboard built for analyzing sales performance and customer behavior in an ecommerce business.
-Provides dynamic visualizations to explore trends in revenue, profit, quantity sold, product categories, payment methods, and geographic distribution.Empowers the business team with actionable and data-driven insights to inform strategy, inventory, and marketing decisions.
+Provides dynamic visualizations to explore trends in revenue, profit, quantity sold, product categories, payment methods, and geographic distribution.Empowers the business team with actionable and data-driven insights to inform strategy, inventory, and marketing decisions. <br> The quarter slicers at the top allow users to filter all the visualizations and key metrics by specific quarters. This means viewers can instantly compare performance, trends, or profits for Q1, Q2, Q3, or Q4, enabling focused, time-based decision making.
+
+The state slicer, positioned at the top right, lets you drill down and center the data for specific states. By selecting a state, all dashboard visuals (such as sum of amount by state, customer performance, profit trends, etc.) shift to show state-specific details, providing a powerful way to analyze regional variations and optimize operations for targeted geographic areas.
+
+These slicers lead to a more interactive experience, making the dashboard adaptable for both high-level summaries and granular, location-based story-telling.
 
 ## 3. Tech Stack <br>
 The dashboard was built using the following tools and technologies: <br>
@@ -40,3 +44,5 @@ The dashboard was built using the following tools and technologies: <br>
 
 ## 6. Screenshots / Demos <br>
    ![Dasboard Preview].(https://github.com/tejas2024-d/Ecommerce-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
+   
+<img width="889" height="500" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/3733391d-c599-41c3-85d6-266c626f8512" />
